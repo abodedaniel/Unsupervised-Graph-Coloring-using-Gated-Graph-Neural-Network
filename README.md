@@ -22,20 +22,20 @@ If you find the code useful, kindly cite the corresponding paper -
 ```
 
 
-# Instructions for setting up the environment and installing dependencies
+Instructions for setting up the environment and installing dependencies
 
-# 1. Create a new conda environment (replace `myenv` with your desired environment name)
-#    You can specify Python version if needed, for example, `python=3.11` for Python 3.11
-#    conda create -n myenv python=3.11
+1. Create a new conda environment (replace `myenv` with your desired environment name)
+    You can specify Python version if needed, for example, `python=3.11` for Python 3.11
+   conda create -n myenv python=3.11
 
-# 2. Activate the conda environment
-#    conda activate myenv
+2. Activate the conda environment
+    conda activate myenv
 
-# 3. Install dependencies using pip
-#    Ensure pip is up-to-date in the environment: conda install pip
+3. Install dependencies using pip
+    Ensure pip is up-to-date in the environment: conda install pip
 
-# 4. Install the required packages from this file
-#    pip install -r requirements.txt
+4. Install the required packages from this file
+    pip install -r requirements.txt
 
 networkx==3.1
 torch==2.1.0
