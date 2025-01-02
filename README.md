@@ -26,7 +26,7 @@ If you find the code useful, kindly cite the corresponding paper -
 ```
 
 
-Instructions for setting up the environment and installing dependencies
+## Instructions for setting up the environment and installing dependencies
 
 1. Create a new conda environment (replace `myenv` with your desired environment name)
     You can specify Python version if needed, for example, `python=3.11` for Python 3.11
