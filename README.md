@@ -1,7 +1,7 @@
 # Unsupervised Graph Coloring using Gated Graph Neural Network
 
 <p align="center">
-  <img src="coloring_result.png" width="500" alt="GNN for wireless communication">
+  <img src="coloring_result.png" width="700" alt="GNN for wireless communication">
 </p>
 
 In this repo, we show the unsupervised graph coloring method using gated graph neural network applied for frequency allocation in wireless multicellular system in the paper [D. Abode, R. Adeogun, L. Salaün, R. Abreu, T. Jacobsen and G. Berardinelli, "Unsupervised Graph-based Learning Method for Sub-band Allocation in 6G Subnetworks," 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington, DC, USA, 2024, pp. 1-6, doi: 10.1109/VTC2024-Fall63153.2024.10757647](https://arxiv.org/abs/2401.00950)
