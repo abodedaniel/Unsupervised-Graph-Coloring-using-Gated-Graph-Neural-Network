@@ -22,7 +22,6 @@ from torch import linalg as LA
 from torch_geometric.nn import knn_graph, Sequential
 from torch_geometric.nn.conv import MessagePassing, GATConv, GatedGraphConv, SAGEConv, GraphConv
 from torch.nn import Sequential as Seq, Linear as Lin, ReLU, LeakyReLU, Sigmoid, BatchNorm1d as BN, Conv1d, Dropout, Tanh, Softmax
-import networkx as nx
 from torch_geometric.utils.convert import to_networkx, from_networkx
 from torch_geometric.transforms import ToUndirected
 import random
